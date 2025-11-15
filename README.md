@@ -197,7 +197,6 @@ See the `LICENSE` file for details.
 
 ## 👥 **Author**
 
-**Your Name**
 [GitHub Profile]  https://github.com/Abdallah-khatib-7/
 
 ---
