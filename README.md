@@ -10,7 +10,6 @@ Users can browse books, view details, authenticate, and manage their shopping ca
 
 ## 📸 **Screenshots**
 
-> Place your images under a `screenshots/` folder.
 
 * **Home Page**
   ![Home](./public/home.png)
